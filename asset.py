@@ -1,3 +1,6 @@
+# Author : Pedro Seriang
+# Email  : pedroseriangcorp@gmail.com
+
 import pygame
 import time
 
