@@ -58,7 +58,7 @@ def main():
         "in this beautiful world",
         "you're so fuckin' special",
         "life is better without feelings?",
-        "are you sure honey",
+        "But my feelings for you make my life better:)",
     ]
     
     for message in messages:
